@@ -41,7 +41,7 @@
 
 /* Media quries  */
 
-@media all  and (min-width:320px) {
+@media all  and (max-width:320px) {
     .calculator-btn>button {
         padding: 15px 17px;
 
